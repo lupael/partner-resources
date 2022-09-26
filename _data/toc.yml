@@ -1,0 +1,129 @@
+- title: Readiness Resources
+  url: "readiness-resources/"
+  tag: readiness
+  links:
+    - title: "Azure"
+      url: "azure"
+      tag: azure
+      children:
+        - title: App Dev
+          url: "azure/appdev"
+          tag: appdev
+        - title: Data, Analytics, and AI
+          url: "azure/data-analytics-ai"
+          tag: data, analytics, and ai
+        - title: Infrastructure
+          url: "azure/infrastructure"
+          tag: infrastructure
+        - title: IoT
+          url: "azure/iot"
+          tag: iot
+        - title: Azure Marketplace
+          url: "azure/azure-marketplace"
+          tag: marketplace
+    - title: "Business Applications"
+      url: "business-applications"
+      tag: business applications
+      children:
+        - title: Customer Data Platform
+          url: "business-applications/customer-data-platform"
+          tag: customer data platform
+        - title: Customer Engagement
+          url: "business-applications/customer-engagement"
+          tag: customer engagement
+        - title: Finance & Operations
+          url: "business-applications/finance-and-operations"
+          tag: finance and operations
+        - title: ISV Connect
+          url: "business-applications/isv-connect"
+          tag: isv connect
+        - title: Mixed Reality
+          url: "business-applications/mixed-reality"
+          tag: mixed reality
+        - title: Power Platform
+          url: "business-applications/power-platform"
+          tag: power platform
+        - title: Small Medium Business
+          url: "business-applications/small-medium-business-smb"
+          tag: smb
+    - title: Industry
+      url: "industry"
+      tag: industry
+      children:
+        - title: Healthcare
+          url: "industry/healthcare"
+          tag: healthcare
+        - title: Manufacturing
+          url: "industry/manufacturing"
+          tag: manufacturing
+        - title: Nonprofit
+          url: "industry/nonprofit"
+          tag: nonprofit
+        - title: Retail
+          url: "industry/retail"
+          tag: retail
+        - title: Sustainability
+          url: "industry/sustainability"
+          tag: sustainability
+    - title: Modern Workplace + Security
+      url: "modern-workplace"
+      tag: modern workplace and security
+      children:
+        - title: Management
+          url: "modern-workplace/management"
+          tag: modern workplace management
+        - title: Microsoft Teams
+          url: "modern-workplace/microsoft-teams"
+          tag: microsoft teams
+        - title: Security
+          url: "modern-workplace/security"
+          tag: security
+- title: Academies
+  url: "skilling/academies"
+  tag: academies
+  links:
+    - title: "Azure Data Academy"
+      url: "skilling/azure-data-academy"
+      tag: azure data academy
+    - title: "Data Governance Academy"
+      url: "skilling/data-governance-academy"
+      tag: dga
+    - title: "D365 Business Central Academy"
+      url: "skilling/business-central-academy"
+      tag: business central academy
+      children:
+        - title: D365 Sales
+          url: "skilling/business-central-academy/d365"
+          tag: bca d365
+        - title: Outlook
+          url: "skilling/business-central-academy/outlook"
+          tag: bca outlook
+        - title: Power BI
+          url: "skilling/business-central-academy/powerbi"
+          tag: bca powerbi
+        - title: PVA
+          url: "skilling/business-central-academy/pva"
+          tag: bca pva
+    - title: "Modern Analytics Academy"
+      url: "skilling/modern-analytics-academy"
+      tag: modern analytics academy
+      children:
+        - title: Core Sessions
+          url: "skilling/modern-analytics-academy/core-sessions"
+          tag: maa core
+        - title: Hands-on
+          url: "skilling/modern-analytics-academy/hands-on"
+          tag: maa hands on
+        - title: Vignettes
+          url: "skilling/modern-analytics-academy/vignettes"
+          tag: vignettes
+- title: Skilling & Hands-on
+  url: "skilling/"
+  tag: workshop
+  links:
+    - title: "AVS Hands-on Labs"
+      url: "skilling/infrastructure/avs-hands-on-labs"
+      tag: avshol
+    - title: "What the Hack"
+      url: "skilling/azure/what-the-hack"
+      tag: wth
