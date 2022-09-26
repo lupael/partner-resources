@@ -10,7 +10,7 @@ back_to_top_text: "Back to top"
 footer_content: "Copyright &copy; 2022 Microsoft"
 
 # Social (First three Required)
-repo: "https://github.com/microsoft/PartnerResources"
+repo: "https://github.com/lupael/partner-resources"
 github_user: "microsoft"
 github_repo: "PartnerResources"
 github_branch: "main"
@@ -40,8 +40,8 @@ accentColor: blue
 themeColor: blue
 fixedNav: 'true' # true or false
 
-last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %I:%M %p"
+last_edit_timestamp: false
+# last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 permalink: /:year/:title/
 markdown: kramdown
